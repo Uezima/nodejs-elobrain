@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-elobrain",
+  "version": "1.0.0",
+  "description": "Elobrain is an open-source platform to improve the learning process. Utilizing a spaced repetition process the platform helps you to learn anything.  This is the NodeJS backend repository.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Uezima/nodejs-elobrain.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Uezima/nodejs-elobrain/issues"
+  },
+  "homepage": "https://github.com/Uezima/nodejs-elobrain#readme"
+}
